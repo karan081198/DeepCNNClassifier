@@ -7,18 +7,16 @@ from deepClassifier.utils import get_size
 from pathlib import Path
 from tqdm import tqdm
 
-
-
 class DataIngestion: 
     def __init__(self, config: DataIngestionConfig):
-        self.config = config
+        self.config=config
 
     def download_file(self):
-        logger.info("Trying to download file...")
-        
+        logger.info("Trying to download file...")  
+              
         if not os.path.exists(self.config.local_data_file):
             logger.info("Download started...")            
-            filename, headers = request.urlretrieve(
+            filename,headers=request.urlretrieve(
                 url = self.config.source_URL,
                 filename = self.config.local_data_file
             )
