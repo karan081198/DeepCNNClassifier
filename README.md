@@ -13,3 +13,5 @@ Workflow
 9. run tox for testing your package
 10. Update the dvc.yaml
 11. run "dvc repro" for running all the stages in pipeline
+
+![Data Ingestion@2x (1)](https://user-images.githubusercontent.com/51045568/199649327-9caaad1e-c079-4033-8f01-0630d060b160.png)
