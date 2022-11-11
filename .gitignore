@@ -132,3 +132,9 @@ dmypy.json
 .vscode/
 *.jpg
 *.zip
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_root_log_dir/tb_logs_at_2022-10-28-12-15-55/train/events.out.tfevents.1666939560.LAPTOP-P47OOD48.33660.0.v2
+artifacts/prepare_callbacks/tensorboard_root_log_dir/tb_logs_at_2022-10-28-12-21-57/train/events.out.tfevents.1666939923.LAPTOP-P47OOD48.1004.0.v2
+artifacts/prepare_callbacks/tensorboard_root_log_dir/tb_logs_at_2022-10-28-12-21-57/validation/events.out.tfevents.1666940398.LAPTOP-P47OOD48.1004.1.v2
+artifacts/training/model.h5
+.gitignore
