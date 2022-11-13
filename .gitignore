@@ -147,3 +147,7 @@ artifacts/prepare_base_model/base_model_updated.h5
 artifacts/prepare_base_model/base_model_updated.h5
 artifacts/prepare_base_model/base_model_updated.h5
 artifacts/prepare_base_model/base_model_updated.h5
+artifacts/prepare_callbacks/tensorboard_root_log_dir/tb_logs_at_2022-11-13-11-53-34/validation/events.out.tfevents.1668321134.LAPTOP-P47OOD48.23100.1.v2
+.gitignore
+requirements.txt
+artifacts/prepare_callbacks/tensorboard_root_log_dir/tb_logs_at_2022-11-13-11-53-34/train/events.out.tfevents.1668320620.LAPTOP-P47OOD48.23100.0.v2
